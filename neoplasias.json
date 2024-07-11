@@ -74,4 +74,69 @@
         "Classificação": "Baixo, Intermediário, Alto Risco",
         "Estadiamento": "Metastático, LocalizadoNeuroblastoma"
     }
+    {
+        "Diagnóstico": "Glioma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+     {
+        "Diagnóstico": "Gliomatose",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Astrocitoma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Oligodendrogliomas",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+     {
+        "Diagnóstico": "Meningioma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Ependiomas",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Ganglioglioma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+     {
+        "Diagnóstico": "Schwannoma (Neurilemoma)",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+      {
+        "Diagnóstico": "Craniofaringiomas",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Cordoma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Ganglioneuroma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Pineoblastoma",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
+    {
+        "Diagnóstico": "Outro",
+        "Classificação": " ",
+        "Estadiamento": " "
+    }
 ]
