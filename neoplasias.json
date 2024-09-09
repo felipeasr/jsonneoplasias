@@ -6,12 +6,12 @@
     },
     {
         "Diagnóstico": "Leucemia Mielóide Aguda",
-        "Classificação": "PML, LMMJ, Down",
+        "Classificação": "LPA (Leucemia Promielocítica Aguda), LMMJ (Leucemia Mielomonocítica Juvenil), Down (Síndrome de Down), outros",
         "Estadiamento": "Alto Risco, Baixo risco, risco moderado"
     },
     {
         "Diagnóstico": "Linfoma Hodking",
-        "Classificação": "Clássico, Nodular, Linfócito predominante",
+        "Classificação": "Clássico, Esclerose Nodular, Predomínio linfocitário, Celularidade mista, outros",
         "Estadiamento": "I, II, III, IV, A, B"
     },
     {
@@ -52,7 +52,7 @@
     {
         "Diagnóstico": "Retinoblastoma",
         "Classificação": "Unilateral, Bilateral",
-        "Estadiamento": "A, B, C, D, E"
+        "Estadiamento": "Grupo A, Grupo B, Grupo C, Grupo D, Grupo E"
     },
     {
         "Diagnóstico": "Tumor de células germinativas (TCG)",
@@ -92,7 +92,7 @@
     {
         "Diagnóstico": "Oligodendrogliomas",
         "Classificação": "",
-        "Estadiamento": ""
+        "Estadiamento": "I, II, III, IV"
     },
     {
         "Diagnóstico": "Meningioma",
