@@ -77,7 +77,7 @@
     {
         "Diagnóstico": "Glioma",
         "Classificação": "",
-        "Estadiamento": ""
+        "Estadiamento": "Baixo grau, Alto grau "
     },
     {
         "Diagnóstico": "Gliomatose",
@@ -87,12 +87,12 @@
     {
         "Diagnóstico": "Astrocitoma",
         "Classificação": "",
-        "Estadiamento": ""
+        "Estadiamento": "Grau I, Grau II, Grau III, Grau IV"
     },
     {
         "Diagnóstico": "Oligodendrogliomas",
         "Classificação": "",
-        "Estadiamento": "I, II, III, IV"
+        "Estadiamento": "Grau II, Grau III"
     },
     {
         "Diagnóstico": "Meningioma",
