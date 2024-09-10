@@ -1,13 +1,13 @@
 [
     {
         "Diagnóstico": "Leucemia Linfoblástica aguda",
-        "Classificação": "B, T, Bifenotipica, outros",
-        "Estadiamento": "Alto Risco, Baixo risco, risco moderado"
+        "Classificação": "B, T, Bifenotipica, Outros",
+        "Estadiamento": "Alto Risco, Baixo risco, Risco moderado"
     },
     {
         "Diagnóstico": "Leucemia Mielóide Aguda",
         "Classificação": "LPA (Leucemia Promielocítica Aguda), LMMJ (Leucemia Mielomonocítica Juvenil), Down (Síndrome de Down), outros",
-        "Estadiamento": "Alto Risco, Baixo risco, risco moderado"
+        "Estadiamento": "Alto Risco, Baixo risco, Risco moderado"
     },
     {
         "Diagnóstico": "Linfoma Hodking",
@@ -21,7 +21,7 @@
     },
     {
         "Diagnóstico": "Hepatoblastoma",
-        "Classificação": "Muito baixo risco, Baixo Risco, Intermediário, Alto risco",
+        "Classificação": "Muito baixo risco, Baixo risco, Intermediário, Alto risco",
         "Estadiamento": "Metastático, Localizado"
     },
     {
